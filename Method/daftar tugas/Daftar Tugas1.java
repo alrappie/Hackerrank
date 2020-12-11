@@ -4,6 +4,8 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+//https://www.hackerrank.com/contests/livecode-5-tif-a/challenges/daftar-tugas
+
 public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
