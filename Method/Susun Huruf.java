@@ -1,3 +1,6 @@
+import java.io.*;
+import java.util.*;
+
 public class Solution {
     static boolean compare(String decider, char[] huruf) {
         int hasil=0;
