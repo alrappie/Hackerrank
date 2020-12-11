@@ -1,3 +1,7 @@
+import java.io.*;
+import java.util.*;
+
+public class Solution {
 
  	// lengkapi method showAllData
  	static void showAllData() {
