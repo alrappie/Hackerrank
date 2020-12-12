@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+//https://www.hackerrank.com/contests/live-coding-method-tif-f-2020/challenges/penjumlahan-modulo
 public class Solution {
     
     public static void main(String[] args) {
