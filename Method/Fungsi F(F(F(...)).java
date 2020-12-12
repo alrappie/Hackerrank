@@ -2,6 +2,7 @@ package com.tutorial;
 
 import java.util.Scanner;
 
+//https://www.hackerrank.com/contests/latihan-method-tif-d/challenges/fungsi-fff-
 public class Main {
     public static void main(String[] args) {
         Scanner GG = new Scanner(System.in);
