@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-https://www.hackerrank.com/contests/evaluasi-materi-array-dan-method/challenges/swap-array-3
+//https://www.hackerrank.com/contests/evaluasi-materi-array-dan-method/challenges/swap-array-3
 public class Solution {
     public static void main(String[] args) {
         // Bagian gunanya untuk menangani input array, jadi tidak perlu diubah jika tidak diperlukan.
