@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+//https://www.hackerrank.com/lc-method-tif-d
 public class Solution {
     public static void main(String[] args) {
         Scanner GG = new Scanner(System.in);
