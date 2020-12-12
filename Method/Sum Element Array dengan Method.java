@@ -1,5 +1,6 @@
 import java.util.*;
 
+//https://www.hackerrank.com/contests/evaluasi-materi-array-dan-method/challenges/sum-element-array-dengan-method
 public class Solution {
     public static void main(String[] args) {
         // Bagian gunanya untuk menangani input array, jadi tidak perlu diubah jika tidak diperlukan.
